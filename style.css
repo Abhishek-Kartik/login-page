@@ -32,7 +32,7 @@ span {
 button {
     border-radius: 2em;
     border: 1px solid #fff;
-    background: linear-gradient(50deg, #ffd700, #953553 );
+    background: linear-gradient(50deg, #6fd6eb, #063aa3 );
     color: #FFFFFF;
     font-size: 12px;
     font-weight: bold;
@@ -169,8 +169,8 @@ button.ghost {
 }
 
 .overlay {
-    background: linear-gradient(50deg, #953553, #ffd700);
-    background: -webkit-linear-gradient(50deg, #953553, #ffd700);
+    background: linear-gradient(50deg, #063aa3,#6fd6eb);
+    background: -webkit-linear-gradient(50deg,#063aa3,#6fd6eb );
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
